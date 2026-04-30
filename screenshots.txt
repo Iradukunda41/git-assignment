@@ -1,0 +1,14 @@
+﻿Step 1: Initial commit
+Description: Initialized the git-assignment folder using git init, created a README.md, staged it with git add, and committed it.
+
+Step 2: Branch creation
+Description: Created a new branch named feature using git branch feature and switched to it using git switch feature.
+
+Step 3: Feature addition
+Description: Created feature.txt describing a VS Code feature, staged, and committed it to the feature branch.
+
+Step 4: Pull request
+Description: Pushed the feature branch to GitHub, opened a Pull Request, added a description, and simulated a peer review.
+
+Step 5: Merge
+Description: Merged the Pull Request into the main branch on GitHub and deleted the remote feature branch.
